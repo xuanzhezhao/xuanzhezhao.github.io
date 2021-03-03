@@ -11,16 +11,15 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* BEng. School of Eelecrical and Information Engineering, Tianjin University  2016-2020
+* MSc. Applied Machine Learning, Department of EEE, Imperial College London   2020-2021
 
-Work experience
+Research experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
+* EFY Technology: Research Intern
+  * 
   * Duties included: Tagging issues
-  * Supervisor: Professor Git
+ 
 
 * Fall 2015: Research Assistant
   * Github University
